@@ -51,6 +51,8 @@
     width: 16rem;
     border: none;
     padding: 5px;
+    border: none;
+    outline: 0px;
 }
 
 .ItermMainBody{
@@ -146,6 +148,8 @@
         width: 16rem;
         border: none;
         padding: 5px;
+        border: none;
+        outline: 0px;
     }
     
     .ItermMainBody{

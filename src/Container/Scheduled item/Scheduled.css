@@ -83,6 +83,7 @@
     padding-left: 38px;
   display: flex;
   gap: 10px;
+ 
 }
 .ScheduledInputsTittle{
     padding-top: 10px;
@@ -96,24 +97,38 @@
     width:19vw;
     background-color: rgb(226, 224, 224);
     border-radius: 5px;
+    border: none;
+    outline: 0px;
 }
 .inputs{
     width:19vw;
     border-radius: 5px;
+    border: none;
+    outline: 0px;
+    background-color: rgb(226, 224, 224);
 }
 .input1{
     width:25vw;
     border-radius: 5px;
+    border: none;
+    outline: 0px;
+    background-color: rgb(226, 224, 224);
 
 }
 .input2{
     width:12vw;
     border-radius: 5px;
+    border: none;
+    outline: 0px;
+    background-color: rgb(226, 224, 224);
 }
 .textarea{
     width: 40vw;
     border-radius: 5px;
    height: 100px;
+   border: none;
+   outline: 0px;
+   background-color: rgb(226, 224, 224);
 }
 .textarea1{
     width: 40vw;
@@ -122,6 +137,9 @@
    color: rgb(226, 224, 224);
    font-size: 12px;
    padding-top: 10px;
+   border: none;
+   outline: 0px;
+   background-color: rgb(226, 224, 224);
 }
 .ScheduledPic{
     height: 130px;
